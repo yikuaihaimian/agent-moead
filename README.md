@@ -744,19 +744,6 @@ python src/experiment/visualize.py \
 
 </div>
 
----
-
-## 📚 参考文献
-
-1. Zhang, Q., & Li, H. (2007). MOEA/D: A multiobjective evolutionary algorithm based on decomposition. *IEEE Transactions on Evolutionary Computation*, 11(6), 712-731.
-
-2. Ouyang, H., et al. (2023). Large Language Models as Evolutionary Optimizers. *arXiv preprint arXiv:2310.19056*.
-
-3. Chen, X., et al. (2022). Trajectory planning for spray painting robot with Bézier curves. *Robotics and Computer-Integrated Manufacturing*, 73, 102258.
-
-4. 王某某, 李某某. (2024). 复杂曲面喷涂厚度预测模型研究. *航空学报*, 45(3), 123-135.
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yikuaihaimian&label=Thanks%20for%20visiting!&color=0e75b6&style=flat" alt="Visitors" />
